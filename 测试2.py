@@ -1,1 +1,2 @@
-print(12345)
+import sklearn
+print(sklearn.__version__)
